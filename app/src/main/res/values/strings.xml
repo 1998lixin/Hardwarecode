@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">修改手机硬件信息</string>
+    <string name="action_save">保存</string>
+</resources>
