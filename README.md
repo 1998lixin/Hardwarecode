@@ -7,3 +7,10 @@
 *  5  总共改了近60个函数 如IMEI IMSI CPU GPS android id 手机号码 运营商 WIFI  分辨率 等等
 
     
+## Modify hardware information based on xposed
+
+* 1 added a dynamic update without having to change the reboot every time
+* 2 RootCloak hidden xscreen own traces to prevent the tripartite application to detect cheating
+* 3 change the location of the Baidu high German map Tencent and tripartite applications, please modify the role of objects
+* 4 modified most of the functions in the build TelephonyManager Display
+* 5 total changed nearly 60 functions such as IMEI IMSI CPU GPS android id mobile phone number operator WIFI resolution and so on
